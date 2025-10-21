@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @zkushnir
-- 👀 I’m interested in mechatronics, machine learning, robotics
-- 🌱 I’m currently learning advanced robotics topics such as legged robot control, robot dynamics, and computer vision
-- 💞️ I’m looking to collaborate on a mechatronics project with a robotic arm that uses computer vision to sort fruits 
-- 📫 How to reach me: email me at zskushnir@gmail.com
+- 👀 I’m interested in all things robotics- mechatronics, machine learning, computer vision, etc. 
+- 🌱 I’m currently learning advanced robotics topics such as Robot planning and desigin making, optimization in robotics, mobile robot design and implementation 
+- 📫 How to reach me: email me at zskushnir@gmail.com 
 
 <!---
 zkushnir/zkushnir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

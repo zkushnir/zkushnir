@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zkushnir
-- 👀 I’m interested in all things robotics- mechatronics, machine learning, computer vision, etc. 
-- 🌱 I’m currently learning advanced robotics topics such as Robot planning and desigin making, optimization in robotics, mobile robot design and implementation 
+- 👀 I’m interested in all things robotics
+- 🌱 Love building cool robots!
 - 📫 How to reach me: email me at zskushnir@gmail.com 
 
 <!---
